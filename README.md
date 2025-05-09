@@ -44,8 +44,6 @@ pip install matplotlib customtkinter
    * Cliquez sur "Lancer l’analyse" pour démarrer l’analyse.
 
 
-## Exemple de sortie
+## ATTENTION
 
-* Liste des motifs DnaA trouvés et leurs positions.
-* Positions estimées des OriC.
-* Graphe du GC-skew avec indication visuelle de l’OriC (lignes rouges).
+Lors de l'exécution du code dans un fichier .py, l'interface ne s'affiche pas car matplotlib et tkinter ne fonctionnent pas correctement dans un script Python classique sans environnement interactif. C'est pourquoi nous avons ajouté un fichier .ipynb contenant le même code, afin de pouvoir l'exécuter et visualiser l'interface!!!
