@@ -30,7 +30,7 @@ pip install matplotlib customtkinter
 
 ## Structure du projet
 
-* `YOUNESMORELLON.py` : script principal contenant toutes les fonctions d’analyse et l’interface utilisateur
+* `YOUNESMORELLON.py` ou `YOUNESMORELLON.ipynb` : script principal contenant toutes les fonctions d’analyse et l’interface utilisateur
 * `sequenceprojet.txt` : exemple de fichier de séquence FASTA utilisé dans notre projet
 
 
