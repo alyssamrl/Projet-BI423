@@ -103,7 +103,7 @@ def detect_oriC(positions, sequences, seuil=0.1):
 # ---- Programme principal ----
 
 # Étape 1 : Lire la séquence
-seq = lire_sequence_fasta('seqprojet.txt')
+seq = lire_sequence_fasta('sequenceprojet.txt')
 
 # Étape 2 : Détecter les régions riches en AT
 regions = calcul_regions_AT(seq)
